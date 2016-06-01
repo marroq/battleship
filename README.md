@@ -1,2 +1,2 @@
 # Battleship
-Juego Battleship hecho en Scheme, Computer Science 1, Universidad Galileo
+Juego Battleship hecho en Scheme, Ciencias de la Computación I, Universidad Galileo
